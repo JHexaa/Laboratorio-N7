@@ -1,0 +1,25 @@
+
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  margin: 28px;
+}
+
+table {
+  font-family: arial, sans-serif;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 5px;
+}
+
+footer{
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
